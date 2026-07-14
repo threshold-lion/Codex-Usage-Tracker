@@ -1,4 +1,4 @@
-# Codex Usage Meter
+# Codex Usage Tracker
 
 Codex Usage Meter is a lightweight Cursor and VS Code extension for tracking Codex usage with minimal friction.
 
